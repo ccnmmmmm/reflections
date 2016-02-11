@@ -3,3 +3,12 @@ What happens when you initialize a repository? Why do you need to do it?
 When you initialize a repository it creates a .git file which makes a directory a
 Git repository.
 
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+A repository is the the main directory in which all files for a project are stored.
+The working directory is the directory in which you are currently working on.
+The staging area is where files are added in order to be committed.
+
+=================================
+Just testing the commit thingy
+=================================
